@@ -64,3 +64,5 @@ print("MAE: ", mean_absolute_error(y_test, y_pred))
 print("MSE: ", mean_squared_error(y_test, y_pred))           # DOĞRULUK ORANLARINI ÖLÇMEYE YARAR
 print("MedAE: ", median_absolute_error(y_test, y_pred))
 print("EVS: ", explained_variance_score(y_test, y_pred))
+
+Doğruluk oranı : https://prnt.sc/aJ572xj8kK7G
